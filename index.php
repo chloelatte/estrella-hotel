@@ -55,11 +55,6 @@ include 'includes/header.php';
             </div>
         </div>
     </div>
-
-    <div class="hero__scroll">
-        <span>Scroll</span>
-        <div class="hero__scroll-line"></div>
-    </div>
 </section>
 
 <!-- ═══════ ROOMS INTRO ════════════════════════════════════════ -->
