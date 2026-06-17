@@ -15,25 +15,25 @@
 ## Fitur Utama
 
 ### Guest
-- 🏠 **Beranda** — Hero section, ketersediaan kamar, katalog kamar, penawaran spesial
-- 🛏 **Rooms** — Daftar kamar dengan filter (tipe, kapasitas, harga, pencarian)
-- 📋 **Room Detail** — Galeri foto, amenitas, tabs detail/fasilitas/kebijakan, booking widget
-- 📅 **Booking Flow (5 Steps)**:
+- **Beranda** — Hero section, ketersediaan kamar, katalog kamar, penawaran spesial
+- **Rooms** — Daftar kamar dengan filter (tipe, kapasitas, harga, pencarian)
+- **Room Detail** — Galeri foto, amenitas, tabs detail/fasilitas/kebijakan, booking widget
+- **Booking Flow (5 Steps)**:
   1. Pilih kamar
   2. Isi detail pemesanan + ringkasan harga
   3. Pilih add-ons (breakfast, spa, airport transfer, dll)
   4. Pembayaran (credit card, bank transfer, e-wallet, pay at hotel)
   5. Konfirmasi booking dengan kode referensi
-- 🗂 **My Bookings** — Riwayat reservasi, pencarian, batalkan reservasi
-- 🏛 **Facilities** — Halaman fasilitas hotel
-- ℹ **About Us** — Sejarah, visi misi, timeline, penghargaan, tim
-- 🔐 **Auth** — Login, Register, Logout (session + password_hash)
+- **My Bookings** — Riwayat reservasi, pencarian, batalkan reservasi
+- **Facilities** — Halaman fasilitas hotel
+- **About Us** — Sejarah, visi misi, timeline, penghargaan, tim
+- **Auth** — Login, Register, Logout (session + password_hash)
 
 ### Admin
-- 📊 **Dashboard** — Statistik reservasi, pendapatan, grafik
-- 📋 **Reservations** — CRUD lengkap: tampil, edit status, hapus + search & pagination
-- 🛏 **Rooms** — CRUD lengkap: tambah, edit, hapus kamar + search & pagination
-- 👥 **Users** — Daftar pengguna, hapus, search & pagination
+- **Dashboard** — Statistik reservasi, pendapatan, grafik
+- **Reservations** — CRUD lengkap: tampil, edit status, hapus + search & pagination
+- **Rooms** — CRUD lengkap: tambah, edit, hapus kamar + search & pagination
+- **Users** — Daftar pengguna, hapus, search & pagination
 
 ---
 
@@ -131,8 +131,8 @@ estrella/
 
 | Role  | Username | Password |
 |-------|----------|----------|
-| Admin | `admin`  | `admin123` |
-| Guest | `guest1` | `guest123` |
+| Admin | `admin`  | `password` |
+| Guest | `guest1` | `password` |
 
 > ⚠️ Ganti password default setelah pertama kali login!
 
