@@ -1,4 +1,4 @@
-# 🌊 Estrella Hotel & Resort
+# Estrella Hotel & Resort
 
 > Aplikasi web reservasi hotel mewah berbasis PHP & MySQL — Ujian Akhir Semester  
 > Praktikum Pemrograman Web 1 · Praktikum Basis Data  
