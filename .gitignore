@@ -1,0 +1,25 @@
+# ─── Database credentials (JANGAN di-push ke GitHub!) ───────
+includes/config.php
+
+# ─── Sistem operasi ──────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ─── Editor ──────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ─── PHP ─────────────────────────────────────────────────────
+vendor/
+composer.lock
+
+# ─── Logs & temp ─────────────────────────────────────────────
+*.log
+/tmp/
+
+# ─── Upload yang mungkin berisi data user ────────────────────
+assets/img/uploads/
