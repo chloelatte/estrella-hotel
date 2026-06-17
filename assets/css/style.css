@@ -1750,3 +1750,10 @@ section.section--linen,
   text-align: center;
   padding: 3rem 1rem;
 }
+
+/* Fix: teks tombol login & register di tengah */
+.auth-card .btn-harbor {
+    justify-content: center;
+    text-align: center;
+    width: 100%;
+}
