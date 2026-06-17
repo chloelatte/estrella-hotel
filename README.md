@@ -190,3 +190,26 @@ estrella/
 ## Lisensi
 
 Proyek ini dibuat untuk keperluan akademis — Ujian Akhir Semester Praktikum Pemrograman Web 1 & Basis Data, Sekolah Vokasi UGM 2025/2026.
+
+## Screenshots
+
+### Halaman Beranda
+![Beranda](assets/img/screenshots/beranda.png)
+
+### Halaman Rooms
+![Rooms](assets/img/screenshots/rooms.png)
+
+### Halaman Facilities
+![Facilities](assets/img/screenshots/facilities.png)
+
+### Halaman Booking
+![Booking](assets/img/screenshots/booking.png)
+
+### Halaman About Us
+![About Us](assets/img/screenshots/about.png)
+
+### Admin Panel
+![Admin](assets/img/screenshots/admin.png)
+
+### Tampilan Mobile
+![Mobile](assets/img/screenshots/mobile.png)
