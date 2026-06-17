@@ -1757,3 +1757,25 @@ section.section--linen,
     text-align: center;
     width: 100%;
 }
+
+/* Fix: tampilkan tombol toggle password */
+.toggle-password {
+    position: absolute !important;
+    right: 12px !important;
+    top: 50% !important;
+    transform: translateY(-50%) !important;
+    background: none !important;
+    border: none !important;
+    cursor: pointer !important;
+    color: var(--muted) !important;
+    z-index: 10 !important;
+    padding: 0 !important;
+    display: flex !important;
+    align-items: center !important;
+    font-size: 1rem !important;
+}
+
+.toggle-password i {
+    font-size: 1rem !important;
+    color: var(--muted) !important;
+}
